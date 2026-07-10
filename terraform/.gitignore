@@ -13,6 +13,7 @@
 # Terraform working directory
 .terraform/
 .terraform.lock.hcl
+.mcp.json
 
 # IDE and OS files
 .idea/
