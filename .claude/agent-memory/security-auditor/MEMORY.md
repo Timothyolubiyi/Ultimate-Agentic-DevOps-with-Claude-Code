@@ -1,0 +1,2 @@
+- [Portfolio terraform stack structure & last-known gaps](project_portfolio_terraform_stack.md) — S3+CloudFront OAC stack, no IAM/OIDC; gaps found 2026-07-10
+- [Recurring gap pattern in DMI student TF stacks](pattern_recurring_tf_gaps.md) — encryption/logging/headers/WAF/.gitignore/account-ID-in-name gaps repeat across reviews

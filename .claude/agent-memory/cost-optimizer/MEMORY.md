@@ -1,0 +1,4 @@
+- [Portfolio Site CloudFront Price Class](portfolio-cloudfront-price.md) — Current PriceClass_200, recommend PriceClass_100 for 20-30% savings
+- [S3 Versioning Opportunities](s3-versioning.md) — Both buckets have versioning enabled with no lifecycle rules, unnecessary cost
+- [CloudFront Logging Strategy](cloudfront-logging.md) — Separate log bucket adds unnecessary costs, consider disabling for low-traffic site
+- [S3 Lifecycle Rules](s3-lifecycle-rules.md) — No lifecycle policies on log_bucket; logs accumulate indefinitely

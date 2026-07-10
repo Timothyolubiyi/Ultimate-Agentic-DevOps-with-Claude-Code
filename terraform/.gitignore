@@ -1,0 +1,22 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+*.tfstate.*.backup
+
+# Terraform variable files
+*.tfvars
+*.tfvars.json
+
+# Terraform lock file backups
+.terraform.lock.hcl.bak
+
+# Terraform working directory
+.terraform/
+.terraform.lock.hcl
+
+# IDE and OS files
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
