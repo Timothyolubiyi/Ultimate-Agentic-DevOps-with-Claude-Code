@@ -21,3 +21,11 @@
 *.swo
 *~
 .DS_Store
+
+# Claude settings
+.claude/settings.local.json
+.env
+.env.*
+terraform.tfvars
+*.tfstate
+*.tfstate.backup
